@@ -1,0 +1,7 @@
+{
+"project_name": "astro_project",
+            "env_path": "astro_project/astro_project_env",
+            "files_path": "../data/raw/",
+            "key": "<<<<key>>>>",
+            "user": "<<<<user>>>>"
+            }

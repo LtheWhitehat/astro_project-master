@@ -1,0 +1,6 @@
+.ipynb_checkpoints 
+__pycache__/
+.vscode/
+catboost_info/
+.metaflow
+astro_project_env

@@ -1,0 +1,49 @@
+{"project": {
+    "coInvestigators": {"coInvestigator": [
+        "Gary P Zank",
+        "John C Raymond",
+        "Joel Fritzler",
+        "Phillip C Stancil"
+    ]},
+    "responsibleProgram": "Astrophysics Research and Analysis Program",
+    "workLocations": {"workLocation": [
+        "Alabama",
+        "Arizona",
+        "Georgia",
+        "Massachusetts"
+    ]},
+    "endDate": "Dec 2020",
+    "primaryTas": "",
+    "destinations": {"destination": "Outside the Solar System"},
+    "programManagers": {"programManager": "Linda Sparke"},
+    "description": "As recognized prominently by the APRA program, interpretation of NASA astrophysical mission observations requires significant products of laboratory astrophysics, for example, spectral lines and transition probabilities, electron-, proton-, or heavy-particle collision data. Availability of these data underpin robust and validated models of astrophysical emissions and absorptions, energy, momentum, and particle transport, dynamics, and reactions. Therefore, measured or computationally derived, analyzed, and readily available laboratory astrophysics data significantly enhances the scientific return on NASA missions such as HST, Spitzer, and JWST. In the present work a comprehensive set of data will be developed for the ubiquitous proton-hydrogen and hydrogen-hydrogen collisions in astrophysical environments including ISM shocks, supernova remnants and bubbles, HI clouds, young stellar objects, and winds within stellar spheres, covering the necessary wide range of energy- and charge-changing channels, collision energies, and most relevant scattering parameters. In addition, building on preliminary work, a transport and reaction simulation will be developed incorporating the elastic and inelastic collision data collected and produced. The work will build upon significant previous efforts of the principal investigators and collaborators, will result in a comprehensive data set required for modeling these environments and interpreting NASA astrophysical mission observations, and will benefit from feedback from collaborators who are active users of the work proposed.",
+    "title": "Computational laboratory astrophysics to enable transport modeling of protons and hydrogen in stellar winds, the ISM, and other astrophysical environments - NAU",
+    "leadOrganization": {
+        "city": "Flagstaff",
+        "name": "Northern Arizona University",
+        "state": "AZ",
+        "type": "Academic"
+    },
+    "additionalTas": "",
+    "principalInvestigators": {"principalInvestigator": "David R Schultz"},
+    "lastUpdated": "2018-10-10",
+    "supportingOrganizations": {"organization": [
+        {
+            "name": "Smithsonian Institution Astrophysical Observatory (SAO)",
+            "type": "Industry"
+        },
+        {
+            "name": "The University of Alabama",
+            "type": "Academic"
+        },
+        {
+            "name": "University of Georgia",
+            "type": "Academic"
+        }
+    ]},
+    "library": "",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "id": 94328,
+    "startDate": "Jan 2018",
+    "status": "Active"
+}}
